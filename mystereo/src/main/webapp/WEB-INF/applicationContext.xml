@@ -37,7 +37,7 @@
 		<property name="driverClassName" value="org.postgresql.Driver" />
 		<property name="url" value="jdbc:postgresql://localhost:5432/mystereo" />
 		<property name="username" value="postgres" />
-		<property name="password" value="4411ckqf" />
+		<property name="password" value="password" />
 	</bean>
 
 	<bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager">
